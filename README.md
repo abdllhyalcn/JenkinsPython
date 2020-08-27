@@ -6,4 +6,4 @@ Bulduğu dosyalarda verilen variableName ile "def variableName = boolean" şekli
 
 Ardından dosyayı kaydeder.
 
-![alt text](https://github.com/abdllhyalcn/JenkinsPython/blob/GETPATH_AY/ScreebShot.png?raw=true)
+![alt text](https://github.com/abdllhyalcn/JenkinsPython/blob/GETPATH_AY/ScreenShot.jpg?raw=true)
